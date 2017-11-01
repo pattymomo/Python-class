@@ -1,2 +1,2 @@
-# class
-note in the class
+# Python-class
+homework
